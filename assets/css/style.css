@@ -260,7 +260,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero:before {
   content: "";
-  background: rgba(255, 255, 255, 0.8);
+  background: rgba(255, 255, 255, 0.7);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -295,7 +295,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero .social-links a {
   font-size: 24px;
   display: inline-block;
-  color: #45505b;
+  color: #35404b;
   line-height: 1;
   margin-right: 20px;
   transition: 0.3s;
